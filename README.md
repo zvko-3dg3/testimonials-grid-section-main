@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/responsive-testimonials-grid-section-main-using-css-grid-rVtgabxpf0](https://www.frontendmentor.io/solutions/responsive-testimonials-grid-section-main-using-css-grid-rVtgabxpf0)
-- Live Site URL: [ https://zvko-3dg3.github.io/testimonials-grid-section-main/]( https://zvko-3dg3.github.io/testimonials-grid-section-main/)
+- Live Site URL: [https://zvko-3dg3.github.io/testimonials-grid-section-main/]( https://zvko-3dg3.github.io/testimonials-grid-section-main/)
 
 ## My process
 

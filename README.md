@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-testimonials-grid-section-main-using-css-grid-rVtgabxpf0](https://www.frontendmentor.io/solutions/responsive-testimonials-grid-section-main-using-css-grid-rVtgabxpf0)
+- Live Site URL: [ https://zvko-3dg3.github.io/testimonials-grid-section-main/]( https://zvko-3dg3.github.io/testimonials-grid-section-main/)
 
 ## My process
 
@@ -79,6 +79,6 @@ Apply a mobile-first approach more systematically from the start
 
 ### Author
 
-- Frontend Mentor – [@zvko-3dg3](https://github.com/zvko-3dg3)
+- Frontend Mentor – [@zvko-3dg3](https://www.frontendmentor.io/profile/zvko-3dg3)
 
-- GitHub – [@zvko-3dg3](https://www.frontendmentor.io/profile/zvko-3dg3)
+- GitHub – [@zvko-3dg3](https://github.com/zvko-3dg3)
